@@ -1,0 +1,58 @@
+body{
+    
+}
+
+h1{
+    background-color: #203182;
+    color: white;
+    padding: 30px;
+}
+
+h3{
+    font-size: 24px;
+}
+
+.section{
+    /* padding: 10px; */
+    border: 1px solid #444;
+    border-radius: 3px;
+}
+
+.title{
+    border-bottom: 1px solid #444;
+    background-color: #203182;
+    color: #fff;
+    padding: 10px;
+}
+
+.article{
+    border: 1px solid #444;
+    border-radius: 3px;
+    margin: 10px;
+    padding: 5px;
+    background-color: #eee;
+}
+.article-number{
+    background-color: #203182;
+    color: #eee;
+    padding: 0px 2px;
+    border: solid 1px #203182;
+    border-radius: 3px;
+}
+
+a{
+    color: #203182;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.form-entry{
+    padding: 10px;
+}
+
+.btn:hover{
+    background-color: goldenrod;
+}
+.author{
+    
+}
